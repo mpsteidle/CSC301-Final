@@ -1,0 +1,2 @@
+SELECT DISTINCT region
+FROM fish
